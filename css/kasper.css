@@ -202,7 +202,7 @@ header .container nav .form i {
 /* End header */
 /* Start Landing */
 .landing {
-  background-image: url("./iamges/HD-wallpaper-owl-art-tree-fantasy-background-animal.jpg");
+  background-image: url("../iamges/HD-wallpaper-owl-art-tree-fantasy-background-animal.jpg");
   background-size: cover;
   min-height: 100vh;
   position: relative;
@@ -355,7 +355,7 @@ header .container nav .form i {
   padding-bottom: var(--section-padding);
   height: 700px;
   position: relative;
-  background-image: url("./iamges/pngtree-fluid-style-blue-memphis-background-with-curvy-line-shapes-picture-image_1975475.jpg");
+  background-image: url("../iamges/pngtree-fluid-style-blue-memphis-background-with-curvy-line-shapes-picture-image_1975475.jpg");
   background-size: cover;
   display: flex;
   align-items: center;
@@ -598,7 +598,7 @@ header .container nav .form i {
 .stats {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url("./iamges/524340.jpg");
+  background-image: url("../iamges/524340.jpg");
   background-size: cover;
   text-align: center;
   position: relative;
@@ -809,7 +809,7 @@ header .container nav .form i {
 /* Start Quote */
 .quote {
   height: 450px;
-  background-image: url("./iamges/230822_GOTRPG_GTM_WebsiteKeyArt_NoLogo_1080x1080-copy.webp");
+  background-image: url("../iamges/230822_GOTRPG_GTM_WebsiteKeyArt_NoLogo_1080x1080-copy.webp");
   object-fit: cover;
   position: relative;
   text-align: center;
@@ -954,7 +954,7 @@ header .container nav .form i {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   position: relative;
-  background-image: url("./iamges/524340.jpg");
+  background-image: url("../iamges/524340.jpg");
   background-size: cover;
   color: white;
 }
@@ -1139,7 +1139,7 @@ header .container nav .form i {
 .footer {
   padding-top: calc(var(--section-padding) / 2);
   padding-bottom: calc(var(--section-padding) / 2);
-  background-image: url("./iamges/how-to-find-great-locations-for-landscape-photography-11-800x534.jpg");
+  background-image: url("../iamges/how-to-find-great-locations-for-landscape-photography-11-800x534.jpg");
   background-size: cover;
   position: relative;
   color: white;
